@@ -19,9 +19,14 @@ body{
 }
 a{
     color:#4b566a;
+    
     text-decoration: none;
     font-weight: bold;
     padding: 5px
+}
+
+a:hover{
+    color: #4974c5;
 }
 
 h1{
@@ -36,4 +41,8 @@ h1{
 .img-campanha {
     border: 10px solid #c3c3ae;
 
+}
+
+#img-inicial{
+    height: 300px;
 }
